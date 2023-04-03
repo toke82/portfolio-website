@@ -13,7 +13,7 @@ const About = () => {
                 <p className='py-2 text-gray-600'>
                 +8 years experience as a Software Engineer. 
                 I am driven by my passion for web3. 
-                I chose to attend university to fully immerse myself in the world of web3 and blockchain development, where I have completed a master's degree in blockchain technologies. 
+                I chose to attend university to fully immerse myself in the world of web3 and blockchain development, where I have completed a masters degree in blockchain technologies. 
                 In addition to knowing solidity, I try to be updated with the latest tools for developers, as well as vulnerabilities and attacks in smart contracts.                    
                 </p>
                 <p className='py-2 text-gray-600'>
